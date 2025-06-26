@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 📚 Estudiante del Instituto Técnico Renault<br>📌 Córdoba, Argentina 
 
 
