@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismael123439&label=Profile%20views&color=0e75b6&style=flat" alt="ismael123439" /> </p>
 
 
-- 🔭 I’m currently working on [jijijijajijijija](jijijijajijijija)
+- 🔭 I’m currently studing on [Instituto Tecnico Renault](Instituto Tecnico Renault)
 
 - my number phone is **+54 9 351 3847478**
 
