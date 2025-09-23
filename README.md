@@ -11,7 +11,7 @@
 
 
 # 💫 About Me:
-Hi im Ismael<br>Advanced student in programming<br> and web development (Python, Flask, SQLAlchemy, JS, Express, MongoDB).<br> Passionate about learning, solving challenges, working in teams, and providing creative solutions.
+<br>Advanced student in programming<br> and web development (Python, Flask, SQLAlchemy, JS, Express, MongoDB).<br> Passionate about learning, solving challenges, working in teams, and providing creative solutions.
 
 
 ## 🌐 Socials:
