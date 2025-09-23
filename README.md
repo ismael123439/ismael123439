@@ -15,40 +15,46 @@
 <a href="https://instagram.com/https://www.instagram.com/isma_med__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/isma_med__/" height="30" width="40" /></a>
 </p>
 
-### 🖥️ Front-End
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+<h3 align="left">Languages and Tools:</h3>
+### 🖥️ **Front-End**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
 
 ---
 
-### ⚙️ Back-End
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+### ⚙️ **Back-End**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/py5coding/py5-logo/main/py5-logo.png" width="40"/>
 
 ---
 
-### 🗄️ Bases de Datos y Análisis de Datos
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+### 🗄️ **Bases de Datos**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40"/>
 - MongoDB, MySQL, PostgreSQL, NoSQL  
-- Visualización y análisis de datos con **SSMS** y **Power BI** 📊  
 
 ---
 
-### ☁️ Manejo de Servidores y Despliegue
-- Clever Cloud  
-- Back4App  
-- Experiencia levantando servidores Node.js y Flask  
+### 📊 **Análisis de Datos**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.png" width="40"/>
+- SSMS y Power BI para visualización y análisis de datos  
 
 ---
+
+### ☁️ **Despliegue y Servidores**
+<img src="https://cdn.worldvectorlogo.com/logos/clever-cloud.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Back4App_Logo.png" width="40"/>
+- Clever Cloud y Back4App  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael123439&show_icons=true&locale=en&layout=compact" alt="ismael123439" /></p>
