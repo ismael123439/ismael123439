@@ -8,21 +8,7 @@
 
 - my number phone is **+54 9 351 3847478**
 
-- 👯 I’m looking to collaborate on [jijijijajijijija](jijijijajijijija)
-
-- 🤝 I’m looking for help with [jijijijajijijija](jijijijajijijija)
-
-- 👨‍💻 All of my projects are available at [jijijijajijijija](jijijijajijijija)
-
-- 📝 I regularly write articles on [jijijijajijijija](jijijijajijijija)
-
-- 💬 Ask me about **jijijijajijijija**
-
 - 📫 How to reach me **ismaelmed500@gmail.com**
-
-- 📄 Know about my experiences [jijijijajijijija](jijijijajijijija)
-
-- ⚡ Fun fact **jijijijajijijija**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
