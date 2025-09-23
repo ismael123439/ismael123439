@@ -16,6 +16,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+# ¡Hola! Soy Isma Medrano 👋
+
+Desarrollador Full-Stack | Apasionado por la programación y la tecnología 🚀  
+Córdoba, Argentina  
+
+---
+
+## 💻 Tecnologías
+
 ### 🖥️ **Front-End**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40"/>
@@ -55,6 +64,16 @@
 <img src="https://cdn.worldvectorlogo.com/logos/clever-cloud.svg" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Back4App_Logo.png" width="40"/>
 - Clever Cloud y Back4App  
+
+---
+
+### 🚀 Levantar un servidor
+
+**Node.js / Express**
+```bash
+npm install
+npm start
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismael123439&show_icons=true&locale=en&layout=compact" alt="ismael123439" /></p>
