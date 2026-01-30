@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently Studing on Instituto Tecnico Renault
 
-- 💬 my number phone is **+54 9 351 3847478**
-
 - 📫 How to reach me **ismaelmed500@gmail.com**
 
 
